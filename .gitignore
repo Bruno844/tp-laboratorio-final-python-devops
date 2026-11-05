@@ -1,0 +1,18 @@
+# Entornos virtuales Python
+venv/
+env/
+.venv/
+ENV/
+
+# Archivos bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archivos temporales / PDF generados
+*.pdf
