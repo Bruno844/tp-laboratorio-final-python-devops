@@ -19,7 +19,7 @@
 
 ---
 
-## ✨ Características Principales
+## Características Principales
 - 📖 **Gestión de Materiales**: Registro, consulta y préstamo de libros y revistas.
 - 👥 **Gestión de Usuarios**: Registro de usuarios estándar y usuarios VIP (con límites ampliados).
 - 🔄 **Polimorfismo en Préstamos**: Cálculo dinámico de períodos de préstamo y penalizaciones por mora según la entidad.
@@ -29,7 +29,7 @@
 
 ---
 
-## 🏛️ Principios de POO Aplicados
+## Principios de POO Aplicados
 
 1. **Abstracción**:
    - Clase base abstracta `Material` que encapsula campos esenciales (`id_material`, `titulo`, `autor`, `disponible`).
@@ -46,7 +46,7 @@
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 sistema_biblioteca/
@@ -72,14 +72,14 @@ sistema_biblioteca/
 
 ---
 
-## 🚀 Requisitos Previos
+## Requisitos Previos
 
 - Python 3.10 o superior.
 - Administrador de paquetes `pip`.
 
 ---
 
-## ⚙️ Instalación y Configuración
+## Instalación y Configuración
 
 1. **Clonar o descargar el repositorio**:
    ```bash
@@ -106,7 +106,7 @@ sistema_biblioteca/
 
 ---
 
-## 💻 Uso e Interfaz de Usuario
+##  Uso e Interfaz de Usuario
 
 Para ejecutar la aplicación interactiva:
 
@@ -131,7 +131,7 @@ python main.py
 
 ---
 
-## 🧪 Ejecución de Pruebas Unitarias
+## Ejecución de Pruebas Unitarias
 
 Para ejecutar todas las pruebas y verificar el correcto funcionamiento del sistema:
 
@@ -145,7 +145,7 @@ pytest --cov=modelos --cov=utils
 ```
 
 
-## 👤 Autor
+## Autor
 
 Proyecto académico de Programación Orientada a Objetos.
 
