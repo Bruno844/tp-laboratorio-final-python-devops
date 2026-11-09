@@ -143,3 +143,12 @@ Para generar un informe de cobertura (opcional):
 ```bash
 pytest --cov=modelos --cov=utils
 ```
+
+
+## 👤 Autor
+
+Proyecto académico de Programación Orientada a Objetos.
+
+**Bruno Ruiz** - Técnico Superior en DevOps, ITS Cipolletti
+
+GitHub: [@Bruno844](https://github.com/Bruno844)
